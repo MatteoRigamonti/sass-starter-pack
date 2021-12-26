@@ -1,1 +1,1 @@
-# sass-starter-pack
+# Sass Starter Pack
